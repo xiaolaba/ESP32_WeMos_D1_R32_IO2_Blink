@@ -1,6 +1,9 @@
 # ESP32_WeMos_D1_R32_IO2_Blink
 testing done. ESP32 D1_R32 board or clone, UNO size PCB, ESP32 module, LED is pin IO2
 
+### ESP32 metal can module datasheet
+ref : [esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf](esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf)  
+
 ### schematic
 a copy here, http://kio4.com/arduino/imagenes/sch-Wemos-D1-R32.pdf  
 local cached [schematic-Wemos-D1-R32.pdf](schematic-Wemos-D1-R32.pdf)  
