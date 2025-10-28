@@ -11,6 +11,11 @@ IO2 and LED,
 
 ![D1_R32_sch_LED_pin.jpg](D1_R32_sch_LED_pin.jpg)  
 
+### LM321, OPA
+![LM321A OPA.jpg](LM321A OPA.jpg)  
+![LM321.JPG](LM321.JPG)  
+datasheet [lmv321a_OPA.pdf](lmv321a_OPA.pdf)  
+
 ### firmware and burn script for quick testing
 change com#, then run the burn.bat
 
