@@ -5,6 +5,12 @@ testing done. ESP32 D1_R32 board or clone, UNO size PCB, ESP32 module, LED is pi
 a copy here, http://kio4.com/arduino/imagenes/sch-Wemos-D1-R32.pdf  
 local cached [schematic-Wemos-D1-R32.pdf](schematic-Wemos-D1-R32.pdf)  
 
+### error of the schematic  
+it has been proven the schematic has no 100% correction, the CH340C pin 7 & pin 8 are not used, and the chip is not required XTAL.  
+the borad has no such components as well.  
+![CH340C_pin7_8.JPG](CH340C_pin7_8.JPG)  
+datasheet [CH340DS1.PDF](CH340DS1.PDF)  
+
 ### board, Arduino UNO form factor
 IO2 and LED,  
 ![D1_R32_board.jpg](D1_R32_board.jpg)  
