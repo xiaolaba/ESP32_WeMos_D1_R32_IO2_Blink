@@ -62,5 +62,13 @@ Flash voltage set by a strapping pin: 3.3V
 Interface: Likely SPI (Serial Peripheral Interface)
 Type: NOR flash memory
 ```
+[JTAG_pins/esp32_datasheet_en.pdf](JTAG_pins/esp32_datasheet_en.pdf)
+[JTAG_pins/device_info.txt](JTAG_pins/device_info.txt)
+
+![JTAG_pins/JTAG_IO-12-13-14-15_BOARD_MAPPING.JPG](JTAG_pins/JTAG_IO-12-13-14-15_BOARD_MAPPING.JPG)
 ![JTAG_pins/device_info.jpg](JTAG_pins/device_info.jpg)  
-![JTAG_pins/](JTAG_pins/)
+![JTAG_pins/JTAG_IO-12-13-14-15.JPG](JTAG_pins/JTAG_IO-12-13-14-15.JPG)
+
+![JTAG_pins/JTAG_IO-12-13-14-15_IO_MAPPING.JPG](JTAG_pins/JTAG_IO-12-13-14-15_IO_MAPPING.JPG)
+![JTAG_pins/JTAG_IO-12-13-14-15_MAPPING.JPG](JTAG_pins/JTAG_IO-12-13-14-15_MAPPING.JPG)
+
