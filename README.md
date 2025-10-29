@@ -39,7 +39,7 @@ set comport=COM7
 
 
 ### JTAG pin header is missing
-
+```
 驗證兩版版, 找出主要瑕疵.
 紅版 PITCH 不匹配, ROW - ROW 相差0.6mm, 需要強行插入板板
 紅版 按鈕力度過高, 不好使
@@ -61,3 +61,6 @@ Detected flash size: 4MB
 Flash voltage set by a strapping pin: 3.3V
 Interface: Likely SPI (Serial Peripheral Interface)
 Type: NOR flash memory
+```
+![JTAG_pins/device_info.jpg](JTAG_pins/device_info.jpg)  
+![JTAG_pins/](JTAG_pins/)
